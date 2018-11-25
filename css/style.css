@@ -226,6 +226,7 @@ body {
 .section-three p {
     font-size: 15px;
     text-align: center;
+    padding-bottom: 25px;
 }
 
 .section-three .column2 {
@@ -249,6 +250,7 @@ body {
 
 .section-three .psn {
     position: relative;
+    display: inline-flex;
 }
 
 .section-three .psn1 {
@@ -259,7 +261,7 @@ body {
     border-radius: 435px;
     color: white;
     background-color: #ffbc00;
-    right: 9%;
+    right: -10%;
 }
 
 .section-three h5 {
@@ -283,7 +285,6 @@ body {
     text-decoration: none;
     color: #ffbc00;
 }
-
 /*section three css*/
 
 /*call to action css*/
